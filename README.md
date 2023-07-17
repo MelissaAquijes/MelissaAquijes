@@ -3,6 +3,8 @@
 Soy desarrolladora front-end me encanta el diseño y la creación de experiencias digitales. Soy una persona comprometida,
 diligente y siempre estoy dispuesta a aprender y mejorar mis habilidades.
 
+<img align="right" width="300px" src="https://github.com/MelissaAquijes/MelissaAquijes/assets/127165850/b04b271f-5eb8-480b-a3c5-8758c5a60cf1"/>
+
 - 🔭 Actualmente estoy trabajando en MD - Links
 - 🌱 Actualmente estoy aprendiendo NPM(software)
 - 👩🏻‍💻📝 Autodidacta
