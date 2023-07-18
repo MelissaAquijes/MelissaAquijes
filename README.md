@@ -18,6 +18,7 @@ diligente y siempre estoy dispuesta a aprender y mejorar mis habilidades.
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MelissaAquijes&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MelissaAquijes&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MelissaAquijes&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MelissaAquijes&icon=4&color=5)](https://visitcount.itsvg.in)
